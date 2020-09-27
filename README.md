@@ -4,7 +4,6 @@
 - Pushkar Anand
 
 ## Participants
-- Anusha Subramanyam
 - Anusha A
 - Raju m
 - Chandana V Kumar
